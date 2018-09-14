@@ -1,0 +1,7 @@
+ <field name="name" type="text_general" indexed="true" stored="true" required="false" multiValued="false" />
+   
+  <field name="price" type="text_general" indexed="true" stored="true" required="false" multiValued="true" />
+	
+ <field name="image-src" type="text_general" indexed="true" stored="true" required="false" multiValued="true" />
+
+ <field name="phonetype" type="text_general" indexed="true" stored="true" required="false" multiValued="false" />
